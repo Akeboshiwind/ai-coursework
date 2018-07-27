@@ -2,4 +2,6 @@
   :description "A neural network library and solution to my ai-coursework"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.9.0"]])
+  :dependencies [[org.clojure/clojure "1.9.0"]
+                 [org.clojure/data.csv "0.1.4"]
+                 [org.clojure/tools.cli "0.3.5"]])
